@@ -55,6 +55,7 @@
 ### Files
 - C:\Users\sylwe\Downloads\----------\apk\com.google.android.youtube_v21.18.168-1561170085_Android-9.0.apk
 <br>
+
 ### Code sources
 - Count: 8
 - classes.dex
@@ -69,7 +70,9 @@
 ### Native libs
 - Arch list: arm64-v8a, armeabi-v7a, x86, x86_64
 - Per arch count: arm64-v8a:32, armeabi-v7a:32, x86:32, x86_64:32
+
 <br>
+
 - Total count: 128
 - lib/arm64-v8a/libGfxPluginCardboard_only_gles2.so
 - lib/arm64-v8a/libaffinityconfigurator.so
